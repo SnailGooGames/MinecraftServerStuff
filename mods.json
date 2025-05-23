@@ -1,0 +1,26 @@
+{
+	"Fabric api":{
+		"url":"https://cdn.modrinth.com/data/P7dR8mSH/versions/SQv5lrom/fabric-api-0.124.2%2B1.21.5.jar"
+	},
+	"Collective":{
+		"url":"https://cdn.modrinth.com/data/e0M1UDsY/versions/aCWSF57s/collective-1.21.5-8.3.jar"
+	},
+	"Balm":{
+		"url":"https://cdn.modrinth.com/data/MBAkmtvl/versions/EfvDjSgk/balm-fabric-1.21.5-21.5.16.jar"
+	},
+	"Mod Menu":{
+		"url":"https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar"
+	},
+	"Simple Voice Chat":{
+		"url":"https://cdn.modrinth.com/data/9eGKb6K1/versions/suJqF5xU/voicechat-fabric-1.21.5-2.5.30.jar"
+	},
+	"Distant Horizons":{
+		"url":"https://cdn.modrinth.com/data/uCdwusMi/versions/Mt9bDAs6/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar"
+	},
+	"Hardcore Revival":{
+		"url":"https://cdn.modrinth.com/data/HqKoXaXz/versions/tWXmTpu7/hardcorerevival-fabric-1.21.5-21.5.3.jar"
+	},
+	"AppleSkin":{
+		"url":"https://cdn.modrinth.com/data/EsAfCjCV/versions/VfjnbBAT/appleskin-fabric-mc1.21.5-3.0.6.jar"
+	}
+}
