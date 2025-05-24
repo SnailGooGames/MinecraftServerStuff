@@ -28,5 +28,8 @@
 	},
 	"Lithium":{
 		"url":"https://cdn.modrinth.com/data/gvQqBUqZ/versions/VWYoZjBF/lithium-fabric-0.16.2%2Bmc1.21.5.jar"
+	},
+	"ImmediatelyFast":{
+		"url":"https://cdn.modrinth.com/data/5ZwdcRci/versions/rkJHrPyc/ImmediatelyFast-Fabric-1.9.4%2B1.21.5.jar"
 	}
 }
