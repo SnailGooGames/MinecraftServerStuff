@@ -35,6 +35,12 @@
 		},
 		"Ping Wheel":{
 			"url":"https://cdn.modrinth.com/data/QQXAdCzh/versions/USEtRrdw/Ping-Wheel-1.10.2-fabric-1.21.5.jar"
+		},
+		"Xaeros World Map":{
+			"url":"https://cdn.modrinth.com/data/NcUtCpym/versions/NFdP28cA/XaerosWorldMap_1.39.9_Fabric_1.21.5.jar"
+		},
+		"Xaeros Mini Map":{
+			"url":"https://cdn.modrinth.com/data/1bokaNcj/versions/su6YdstF/Xaeros_Minimap_25.2.6_Fabric_1.21.5.jar"
 		}
 	},
 	"welcome":"[wave][b]Hejhoppisnopp![/b][/wave]\nva kul att du vill spela på min server <3\nkom ihåg att särskilt nu i början så kan det vara ganska mycket ändringar i mods osv, så se till att köra detta program innan varje gång ni startar minecraft!\nty ty and have fun!!"
