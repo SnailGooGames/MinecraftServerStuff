@@ -1,38 +1,41 @@
 {
-	"Fabric api":{
-		"url":"https://cdn.modrinth.com/data/P7dR8mSH/versions/SQv5lrom/fabric-api-0.124.2%2B1.21.5.jar"
+	"mods":{
+		"Fabric api":{
+			"url":"https://cdn.modrinth.com/data/P7dR8mSH/versions/SQv5lrom/fabric-api-0.124.2%2B1.21.5.jar"
+		},
+		"Collective":{
+			"url":"https://cdn.modrinth.com/data/e0M1UDsY/versions/aCWSF57s/collective-1.21.5-8.3.jar"
+		},
+		"Balm":{
+			"url":"https://cdn.modrinth.com/data/MBAkmtvl/versions/EfvDjSgk/balm-fabric-1.21.5-21.5.16.jar"
+		},
+		"Mod Menu":{
+			"url":"https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar"
+		},
+		"Simple Voice Chat":{
+			"url":"https://cdn.modrinth.com/data/9eGKb6K1/versions/suJqF5xU/voicechat-fabric-1.21.5-2.5.30.jar"
+		},
+		"Distant Horizons":{
+			"url":"https://cdn.modrinth.com/data/uCdwusMi/versions/Mt9bDAs6/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar"
+		},
+		"Hardcore Revival":{
+			"url":"https://cdn.modrinth.com/data/HqKoXaXz/versions/tWXmTpu7/hardcorerevival-fabric-1.21.5-21.5.3.jar"
+		},
+		"AppleSkin":{
+			"url":"https://cdn.modrinth.com/data/EsAfCjCV/versions/VfjnbBAT/appleskin-fabric-mc1.21.5-3.0.6.jar"
+		},
+		"Sodium":{
+			"url":"https://cdn.modrinth.com/data/AANobbMI/versions/DA250htH/sodium-fabric-0.6.13%2Bmc1.21.5.jar"
+		},
+		"Lithium":{
+			"url":"https://cdn.modrinth.com/data/gvQqBUqZ/versions/VWYoZjBF/lithium-fabric-0.16.2%2Bmc1.21.5.jar"
+		},
+		"ImmediatelyFast":{
+			"url":"https://cdn.modrinth.com/data/5ZwdcRci/versions/rkJHrPyc/ImmediatelyFast-Fabric-1.9.4%2B1.21.5.jar"
+		},
+		"Ping Wheel":{
+			"url":"https://cdn.modrinth.com/data/QQXAdCzh/versions/USEtRrdw/Ping-Wheel-1.10.2-fabric-1.21.5.jar"
+		}
 	},
-	"Collective":{
-		"url":"https://cdn.modrinth.com/data/e0M1UDsY/versions/aCWSF57s/collective-1.21.5-8.3.jar"
-	},
-	"Balm":{
-		"url":"https://cdn.modrinth.com/data/MBAkmtvl/versions/EfvDjSgk/balm-fabric-1.21.5-21.5.16.jar"
-	},
-	"Mod Menu":{
-		"url":"https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar"
-	},
-	"Simple Voice Chat":{
-		"url":"https://cdn.modrinth.com/data/9eGKb6K1/versions/suJqF5xU/voicechat-fabric-1.21.5-2.5.30.jar"
-	},
-	"Distant Horizons":{
-		"url":"https://cdn.modrinth.com/data/uCdwusMi/versions/Mt9bDAs6/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar"
-	},
-	"Hardcore Revival":{
-		"url":"https://cdn.modrinth.com/data/HqKoXaXz/versions/tWXmTpu7/hardcorerevival-fabric-1.21.5-21.5.3.jar"
-	},
-	"AppleSkin":{
-		"url":"https://cdn.modrinth.com/data/EsAfCjCV/versions/VfjnbBAT/appleskin-fabric-mc1.21.5-3.0.6.jar"
-	},
-	"Sodium":{
-		"url":"https://cdn.modrinth.com/data/AANobbMI/versions/DA250htH/sodium-fabric-0.6.13%2Bmc1.21.5.jar"
-	},
-	"Lithium":{
-		"url":"https://cdn.modrinth.com/data/gvQqBUqZ/versions/VWYoZjBF/lithium-fabric-0.16.2%2Bmc1.21.5.jar"
-	},
-	"ImmediatelyFast":{
-		"url":"https://cdn.modrinth.com/data/5ZwdcRci/versions/rkJHrPyc/ImmediatelyFast-Fabric-1.9.4%2B1.21.5.jar"
-	},
-	"Ping Wheel":{
-		"url":"https://cdn.modrinth.com/data/QQXAdCzh/versions/USEtRrdw/Ping-Wheel-1.10.2-fabric-1.21.5.jar"
-	}
+	"welcome_message":"[wave][b]Hejhoppisnopp![/b][/wave]\nva kul att du vill spela på min server <3\nkom ihåg att särskilt nu i början så kan\ndet vara ganska mycket ändringar i mods osv, så se till att köra detta program innan varje gång ni startar minecraft!/nty ty and have fun!!"
 }
